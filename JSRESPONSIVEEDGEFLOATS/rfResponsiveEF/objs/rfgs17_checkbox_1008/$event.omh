@@ -1,0 +1,3 @@
+On evClick
+	Calculate $cinst.$objs.rfgs17_button_1006.$enabled as kTrue
+	Calculate $cinst.$objs.rfgs17_checkbox_1008.$enabled as kFalse

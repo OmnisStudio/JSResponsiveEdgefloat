@@ -1,0 +1,4 @@
+On evClick
+	Do $remoteforms.jsResponsiveForm.$movelayoutbreakpoint(320,500,kFalse)
+	Calculate $cinst.$objs.push_me_button_1004.$enabled as kTrue
+	Calculate $cinst.$objs.push_me_button_1002.$enabled as kFalse

@@ -1,0 +1,9 @@
+On evClick
+	Calculate $cinst.$objs.push_me_button_1001.$enabled as kTrue
+	Calculate $cinst.$objs.push_me_button_1002.$enabled as kFalse
+	Calculate $cinst.$objs.push_me_button_1003.$enabled as kFalse
+	Calculate $cinst.$objs.push_me_button_1004.$enabled as kFalse
+	Do $remoteforms.jsResponsiveForm.$movelayoutbreakpoint(500,320)
+	Calculate $remoteforms.jsResponsiveForm.$objs.eFirstName.$width as "284"
+	Calculate $remoteforms.jsResponsiveForm.$objs.eSurname.$width as "284"
+	Calculate $remoteforms.jsResponsiveForm.$objs.dlNationality.$width as "284"
